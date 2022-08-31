@@ -13,6 +13,9 @@ coverage
 out/
 build
 
+# Express Server
+dist
+
 # misc
 .DS_Store
 *.pem
